@@ -31,3 +31,9 @@ xjp.cc
 yanghengjun.com
 ydy.com
 yslang.com
+ccmdl.adobe.com
+ccmdls.adobe.com
+swupdl.adobe.com
+www.adobe.com
+wwwimages.adobe.com
+wwwimages2.adobe.com
