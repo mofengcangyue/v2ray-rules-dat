@@ -1,5 +1,5 @@
 ifanr.com
+test-ipv6.com
 weibo.com
 weixinbridge.com
 www.baidu.com
-test-ipv6.com
