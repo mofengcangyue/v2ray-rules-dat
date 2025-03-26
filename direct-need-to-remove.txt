@@ -6,6 +6,8 @@ baid.us
 baidu.jp
 bussou.com
 busytrade.com
+ccmdl.adobe.com
+ccmdls.adobe.com
 cnbeta.com
 cnbetacdn.com
 cnpolitics.org
@@ -31,8 +33,6 @@ xjp.cc
 yanghengjun.com
 ydy.com
 yslang.com
-ccmdl.adobe.com
-ccmdls.adobe.com
 swupdl.adobe.com
 www.adobe.com
 wwwimages.adobe.com
