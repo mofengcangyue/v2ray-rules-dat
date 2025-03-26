@@ -1,0 +1,3 @@
+test-ipv6.com
+speedtest.net
+189.cn
