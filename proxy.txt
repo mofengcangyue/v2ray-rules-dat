@@ -1,2 +1,13 @@
 services.googleapis.cn
 supertop.co
+spaceship.com
+www.spaceship.com
+paopaoshequ.com
+www.tbtool.cn
+adobe.com
+ccmdl.adobe.com
+ccmdls.adobe.com
+swupdl.adobe.com
+www.adobe.com
+wwwimages.adobe.com
+wwwimages2.adobe.com
